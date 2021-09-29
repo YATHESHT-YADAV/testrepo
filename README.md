@@ -1,4 +1,4 @@
 # testrepo
 # adding comments
-# EDITIMG
+# EDITING THE FILE
 Its is markdown file in this repository.
